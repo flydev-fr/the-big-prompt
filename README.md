@@ -33,8 +33,10 @@ From there, try to get a **maximum of 900,000 tokens results** - you will still 
 
 - Paste the full prompt from `models-prompt.md`
 - Join the repomix file
-- Apply good settings
+- Apply good settings 
+
 ![run-settings](https://github.com/user-attachments/assets/7b6f400a-b0b8-457e-b033-81e32cf9c746)
+
 - Run
 
 Enjoy.
