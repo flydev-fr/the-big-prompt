@@ -31,7 +31,7 @@ From there, try to get a **maximum of 900,000 tokens results** - you will still 
 
 ### 4. The prompt
 
-- Paste the full prompt from `models-prompt.md`
+- Paste the full prompt inspired by [models-prompt](models-prompt.md)
 - Join the repomix file
 - Apply good settings 
 
